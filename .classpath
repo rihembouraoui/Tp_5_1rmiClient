@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/rihem/Desktop/rihem/TP-DAR/Rihem-bouraoui_LSI3_DepAppReparties_TP2/TP3/ conversionClient.jar"/>
+	<classpathentry kind="src" path="/Tp_5_1_RMIConversion_Server"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
